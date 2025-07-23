@@ -6,8 +6,9 @@ A Python project that uses hand gestures to control **system volume** and **scre
 
 ## 📸 Demo
 
-![App Screenshot](screenshot.png)  
+![App Screenshot](C:\Users\SHIVA\Downloads\WhatsApp Image 2025-07-22 at 5.44.04 PM.jpeg)  
 *(Replace with your actual screenshot file name)*
+![WhatsApp Image 2025-07-22 at 5 44 04 PM](https://github.com/user-attachments/assets/92d111c6-28f9-421b-a429-594283824dbf)
 
 ---
 
